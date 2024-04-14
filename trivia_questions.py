@@ -1,0 +1,22 @@
+trivia_questions = [
+    {"question": "Aston Villa FC was founded in 1874.", "is_true": True},
+    {"question": "Aston Villa has won the English Premier League title multiple times.", "is_true": False},
+    {"question": "Villa Park is the home stadium of Aston Villa.", "is_true": True},
+    {"question": "Aston Villa won the UEFA Champions League in 1982.", "is_true": True},
+    {"question": "Aston Villa's nickname is 'The Villains'.", "is_true": False},
+    {"question": "Aston Villa was one of the founding members of the English Football League.", "is_true": True},
+    {"question": "Aston Villa's traditional kit colors are claret and blue.", "is_true": True},
+    {"question": "Aston Villa holds the record for the most FA Cup titles.", "is_true": False},
+    {"question": "Aston Villa's record signing is Gareth Barry.", "is_true": False},
+    {"question": "Aston Villa has never been relegated from the English top-flight league.", "is_true": False},
+    {"question": "Aston Villa has a fierce rivalry with Birmingham City FC.", "is_true": True},
+    {"question": "Aston Villa's all-time leading goal scorer is Gabby Agbonlahor.", "is_true": False},
+    {"question": "Aston Villa has won the European Cup multiple times.", "is_true": False},
+    {"question": "Aston Villa's current manager is Dean Smith.", "is_true": True},
+    {"question": "Aston Villa holds the record for the most League Cup titles.", "is_true": False},
+    {"question": "Aston Villa's biggest victory was a 10-0 win over Arsenal.", "is_true": True},
+    {"question": "Aston Villa's stadium, Villa Park, is located in Birmingham.", "is_true": True},
+    {"question": "Aston Villa's most capped player is Stiliyan Petrov.", "is_true": False},
+    {"question": "Aston Villa has won the FA Cup more times than any other English club.", "is_true": True},
+    {"question": "Aston Villa was one of the founding members of the English Premier League.", "is_true": True}
+]
